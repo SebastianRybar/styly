@@ -3,8 +3,28 @@ h1 {
         text-align: center;
 }
 
+#clanek{
+        color: blue;
+}
+
 .autor{
         color: aqua;
 }
+
+
+ul{
+        list-style-type: circle;
+}
+
+
+a{
+        text-decoration: none;
+}
+
+#h2{
+        color: red;
+}
+
+
 
 
